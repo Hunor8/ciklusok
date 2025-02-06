@@ -11,7 +11,7 @@ namespace FELADATOK05pénz
         static void Main(string[] args)
         {
             
-            int bekerOssz,bekerKolts,aktual;
+            int bekerOssz,bekerKolts;
             
 
             Console.Write("Adja meg az összeget: ");
